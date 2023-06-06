@@ -1,0 +1,22 @@
+.container {
+  padding: 0 2rem;
+}
+
+.main {
+  padding: 4rem 0;
+}
+
+.colorBoxWrapper {
+  padding: 2rem;
+  height: 170px;
+}
+
+.colorBoxTitle {
+  margin-bottom: 0.5rem;
+}
+
+.colorBox {
+  width: 150px;
+  height: 50px;
+  margin: 0.5rem 0;
+}
